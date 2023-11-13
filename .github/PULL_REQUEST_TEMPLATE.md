@@ -1,4 +1,10 @@
-Fixes #TICKETID
+
+Linked issue: #TICKETID
+
+## If a release branch list all issues worked on:
+<!-- Delete if not a release branch -->
+-
+-
 
 ## Changes I have made:
 -
@@ -11,6 +17,10 @@ Fixes #TICKETID
 -
 -
 
+## Does this impact any important functions of the site, if so, detail them here:
+-
+-
+
 ### Contribution checklist
- - [ ] Pull request has a meaningful description of its purpose
- - [ ] All commits are accompanied by meaningful commit messages
+ - Pull request has a meaningful description of its purpose
+ - All commits are accompanied by meaningful commit messages
